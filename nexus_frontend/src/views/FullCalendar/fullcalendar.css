@@ -1,0 +1,10 @@
+h2#alert-dialog-title {
+  font-size: 20px;
+}
+.title-dialogbox {
+  font-size: 20px;
+}
+.Cancel-btn {
+  padding: 11px 12px;
+  font-size: 16;
+}

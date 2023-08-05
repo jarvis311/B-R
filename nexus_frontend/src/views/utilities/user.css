@@ -1,0 +1,60 @@
+.button-group-main {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 20px;
+}
+.action-main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.action-search-main {
+  width: 40%;
+}
+.action-search-div {
+  display: flex;
+  align-items: center;
+
+  gap: 20px;
+}
+/* .data-grid-main .MuiDataGrid-virtualScroller {
+  overflow-x: hidden;
+} */
+.add-user-title {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+.add-user-title button svg {
+  width: 0.8em;
+}
+.errorclass {
+  color: red;
+  font-size: 12px;
+}
+.Cancel-btn {
+  padding: 11px 12px;
+  font-size: 16;
+}
+
+
+.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.css-18gyrjz-MuiButtonBase-root-MuiListItemButton-root {
+  padding: 0;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0.css-ma9ngk-MuiPaper-root {
+  padding: 0;
+}
+
+/* side logo css */
+
+.side_logo-header {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.MuiFormHelperText-root {
+  color: #dd1818 !important;
+}

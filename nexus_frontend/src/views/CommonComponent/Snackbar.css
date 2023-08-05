@@ -1,0 +1,28 @@
+.MuiBox-root .snackbar-div{
+     top: 0;
+    right: 0;
+     left: 0;
+}
+.MuiAlert-message{
+  color:white;
+  font-weight: 600;
+font-size: 16px;
+}
+.MuiAlert-icon{
+  color: white;
+}
+.MuiAlert-action svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeSmall.css-ptiqhd-MuiSvgIcon-root {
+    color: white;
+}
+.snackbar-div  .MuiPaper-root{
+      padding: 11px;
+}
+.MuiAlert-action .closeButton{
+  font-style: normal;
+font-weight: 500;
+font-size: 14px;
+color: #F7F8F8;
+background: rgba(81, 81, 81, 0.4);
+margin-top: 6px;
+}
+
